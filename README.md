@@ -18,7 +18,7 @@ Sebuah perusahaan ingin membuat aplikasi web untuk mengelola data karyawannya. A
 - Mencetak slip gaji
 
 
-## Questions
+## Pertanyaan
 
 Buatlah desain OOP untuk aplikasi tersebut, dengan memperhatikan poin-poin berikut
 
